@@ -1,0 +1,108 @@
+body {
+	background: #f0f0f0;
+	height: 100%;
+	margin: 0;
+}
+/* Logo */
+
+#logo {
+	background-color: #f0f0f0;
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+}
+
+
+/* Subtitle */
+
+.logosubtitle {
+	
+text-align: center;
+font-style: italic;
+padding: 5px 0px
+}
+
+/* Social Media */
+
+.socialmedia  {
+  background-color: #f0f0f0;
+  overflow: hidden;
+  padding: 20px 0px;
+  text-align: center;
+}
+
+/* Suprabar */
+
+.suprabar {
+  background-color: #336799;
+  overflow: hidden;
+  padding: 10px}
+
+.suprabar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-family: Segoe, "Segoe UI", Optima, Candara, Calibri, Arial, sans-serif;
+  font-size: 40px;
+  width: 100%;
+}
+.suprabar a:hover {
+  background-color: #689AD3;
+  color: black;
+}
+
+/* Navigation Bar */
+
+.topnav {
+  background-color: #666666;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 0px;
+  text-decoration: none;
+  font-family: Segoe, "Segoe UI", Optima, Candara, Calibri, Arial, sans-serif;
+  font-size: 17px;
+  width: 25%;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #999999;
+  color: white;
+}
+
+/* Text Area */
+
+.maintext {
+	padding: 0px 10px
+}
+
+/* Headers */
+
+h1, h2, h3 { 
+	font-family: Segoe, "Segoe UI", Optima, Candara, Calibri, Arial, sans-serif;
+	}
+
+/* Footer */
+
+#footer {
+	background-color: #666666;
+	border-top: 1px solid #333333;
+	padding: 0px 0px 0px 10px;
+	color: #ecf3f9 !important;
+	font-family: Segoe, "Segoe UI", Optima, Candara, Calibri, Arial, sans-serif;
+	font-size: small;
+	border-bottom: 2px solid #333333;
+	border-top: 2px solid #333333;
+	width: 100%;
+	bottom:0;
+	left:0;
+	z-index: -1;
+	}
