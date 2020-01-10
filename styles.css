@@ -84,6 +84,12 @@ padding: 5px 0px
 	padding: 0px 10px
 }
 
+/* Papers */
+
+.papers {
+	width: 800px
+}
+
 /* Headers */
 
 h1, h2, h3 { 
